@@ -1,4 +1,11 @@
-### Hi there 👋
+### Howdy 🤠
+
+My name is Julia and I'm a student at Yrgo where I study Web Development.
+
+I'm currently learning JavaScript, PHP and C#.
+
+I enjoy long walks in the sunset. 
+(.. Alone, listening to true crime podcasts)
 
 <!--
 **juliasophieg/juliasophieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
