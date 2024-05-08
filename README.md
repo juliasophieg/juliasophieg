@@ -2,7 +2,7 @@
 
 My name is Julia and I'm a student at Yrgo where I study Web Development.
 
-I'm currently learning React, Node, Espress.js and Typescript.
+I'm currently learning React, Typescript and Next.js.
 
 I enjoy long walks in the sunset. 
 (.. Alone, listening to true crime podcasts)
