@@ -4,6 +4,8 @@ My name is Julia and I'm a student at Yrgo where I study Web Development.
 
 I'm currently learning React, Typescript and Next.js.
 
+#### Project right now: [Recipe Scraper](https://github.com/JoarHansson/recipe-scraper) 🍴🍝
+
 I enjoy long walks in the sunset. 
 (.. Alone, listening to true crime podcasts)
 
