@@ -2,7 +2,7 @@
 
 My name is Julia and I'm a student at Yrgo where I study Web Development.
 
-I'm currently learning Typescript and Next.js.
+I'm currently deep diving into Typescript and Next.js.
 
 #### Project right now: [Recipe Declutter](https://github.com/sirisayshello/recipe-declutter) 🍝
 
